@@ -1,5 +1,5 @@
 # learning-git
-Git learning practice repository from the merged practice branches
+Git learning practice repository for working with branches and merges
 
 ## Practice log
 - created a practice branch

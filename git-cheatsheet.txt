@@ -1,5 +1,5 @@
-git status
-git add <file>
-git commit -m "message"
+git status - show changed and staged files
+git add <file> - stage a file for commit
+git commit -m "message" - save a named snapshot
 
-git log --oneline
+git log --oneline - review recent commit history
