@@ -1,2 +1,2 @@
 # learning-git
-git
+git learning practice repository
